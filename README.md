@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 15-4-2025
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Pranavesh Saikumar
+###  ROLL NO : 212223040149
+###  DEPARTMENT: CSE
 
 
 # EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
@@ -118,6 +118,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   
 
 ## STM 32 CUBE PROGRAM :
+```
 
 
 
